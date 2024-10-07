@@ -5,7 +5,10 @@
 #                          Developed by:
 #               Luca Ricci (luca.ricci.1195@gmail.com) 
 
-# Version 1.0 includes
+# Version 1.0 does NOT include:
+
+# - Double or multiple ridgeline
+# - Properly handle very steep bends
 
 #--------------------------------------------------------------------
 #--------------------------------------------------------------------
