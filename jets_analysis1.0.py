@@ -44,7 +44,7 @@ def parse_arguments():
     parser.add_argument("-px_size", type=float, help="Pixel size (in mas)")
     parser.add_argument("-beam", type=float, help="The beam of the map (in mas)")
     parser.add_argument("-angle", type=float, help="The slices angle")
-    parser.add_argument("-rms", type=float, help="Size (in pixels) of the map along the y-axis")
+    parser.add_argument("-rms", type=float, help="Rms noise (in Jy/beam)")
     parser.add_argument("-rotation", type=float, help="Pixel size (in mas/px)")
 
     args = parser.parse_args()
